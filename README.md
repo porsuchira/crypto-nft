@@ -1,1 +1,1 @@
-"binance notify"
+binance notify
